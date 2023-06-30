@@ -1,0 +1,3 @@
+This folder contains the protocols acquired on the volunteers at the Montreal Neurological Institute
+They have been split per subject, and per sub-study. The fMRI and CoilQA studies were acquired in one session
+and the qMRI in a separate one. However, for the sake of readability, the fMRI and CoilQA protocols were printed separately.
