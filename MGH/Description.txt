@@ -1,1 +1,2 @@
-
+This folder contains the protocols acquired on the volunteers at the Athinoula A. Martinos Center, MGH
+They have been split per subject, and per sub-study. The fMRI and CoilQA studies were acquired in one session. The qMRI session could not be performed because the C2P required for the MP2RAGE and DWI sequencess could not be obtained in time.
