@@ -1,6 +1,6 @@
-# coil-qa-protocol
+# coil-qc-protocol
 
-PDF + EXAR files for 7T Spinal Cord Coil QA Protocol
+PDF + EXAR files for 7T Spinal Cord Coil QC Protocol
 
 CoilQA SOP: https://docs.google.com/document/d/1rfxDTc-coK96GMKsx5_sBK_srCyuKY7BY51qRYrDmig/edit#heading=h.wemewslyb63s
 
