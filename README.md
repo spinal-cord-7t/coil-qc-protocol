@@ -1,7 +1,6 @@
 # coil-qc-protocol
 
-PDF + EXAR files for 7T Spinal Cord Coil QC Protocol
+This repository contains the PDF + EXAR files used by each participating site (under the abbreviated site-name directories) for the 7 T spinal cord coil QC project. 
 
-Coil QC SOP: https://docs.google.com/document/d/1rfxDTc-coK96GMKsx5_sBK_srCyuKY7BY51qRYrDmig/edit#heading=h.wemewslyb63s
+The protocols are accompanied by a Standard Operating Procedure (SOP) for in-vivo and phantom scans (Coil_QC_InVivo_SOP.pdf and Coil_QC_Phantom SOP.pdf)
 
-fMRI SOP: https://docs.google.com/document/d/1zi2_w8RkeuzoLohF_4m15cqwyk6VyqXCIgn8JA-xjAk/edit#heading=h.hzj7ktpyq4nb
